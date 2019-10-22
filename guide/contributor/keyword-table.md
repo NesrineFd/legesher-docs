@@ -22,7 +22,7 @@
 |  ANIMATION |   | css | | |
 |  ANIMATION-COUNT |   | css | | |
 |  ANIMATION-DELAY |  The animation-delay property specifies a delay for the start of an animation. The animation-delay value is defined in seconds (s) or milliseconds (ms) | css | | |
-|  ANIMATION-DIRECTION |   | css | | |
+|  ANIMATION-DIRECTION | The animation-direction property defines whether an animation should be played forwards, backwards or in alternate cycles.  | css | | |
 |  ANIMATION-DURATION |   | css | | |
 |  ANIMATION-FUNCTION |   | css | | |
 |  ANIMATION-MODE |   | css | | |
