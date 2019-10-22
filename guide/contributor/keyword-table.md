@@ -21,7 +21,7 @@
 |  AND_EQ |   | c++ | | |
 |  ANIMATION |   | css | | |
 |  ANIMATION-COUNT |   | css | | |
-|  ANIMATION-DELAY |   | css | | |
+|  ANIMATION-DELAY |  The animation-delay property specifies a delay for the start of an animation. The animation-delay value is defined in seconds (s) or milliseconds (ms) | css | | |
 |  ANIMATION-DIRECTION |   | css | | |
 |  ANIMATION-DURATION |   | css | | |
 |  ANIMATION-FUNCTION |   | css | | |
