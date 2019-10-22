@@ -59,7 +59,7 @@
 |  BACKGROUND-COLOR | The background-color property sets the background color of an element.  | css | | The background of an element is the total size of the element, including padding and border (but not the margin).|
 |  BACKGROUND-IMAGE | The background-image property sets one or more background images for an element.  | css | |The background of an element is the total size of the element, including padding and border (but not the margin). |
 |  BACKGROUND-MODE |   | css | | |
-|  BACKGROUND-ORIGIN |   | css | | |
+|  BACKGROUND-ORIGIN |  The background-origin property specifies the origin position (the background positioning area) of a background image. | css | | |
 |  BACKGROUND-POSITION |   | css | | |
 |  BACKGROUND-REPEAT |   | css | | |
 |  BACKGROUND-SIZE |   | css | | |
