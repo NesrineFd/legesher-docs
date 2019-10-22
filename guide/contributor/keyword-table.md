@@ -57,7 +57,7 @@
 |  BACKGROUND-ATTACHMENT |   | css | | |
 |  BACKGROUND-CLIP |   | css | | |
 |  BACKGROUND-COLOR | The background-color property sets the background color of an element.  | css | | The background of an element is the total size of the element, including padding and border (but not the margin).|
-|  BACKGROUND-IMAGE |   | css | | |
+|  BACKGROUND-IMAGE | The background-image property sets one or more background images for an element.  | css | |The background of an element is the total size of the element, including padding and border (but not the margin). |
 |  BACKGROUND-MODE |   | css | | |
 |  BACKGROUND-ORIGIN |   | css | | |
 |  BACKGROUND-POSITION |   | css | | |
