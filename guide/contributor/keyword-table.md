@@ -26,7 +26,7 @@
 |  ANIMATION-DURATION | The animation-duration property defines how long an animation should take to complete one cycle.   | css | | |
 |  ANIMATION-FUNCTION |   | css | | |
 |  ANIMATION-MODE |   | css | | |
-|  ANIMATION-NAME |   | css | | |
+|  ANIMATION-NAME |  The animation-name property specifies a name for the @keyframes animation. | css | | |
 |  ANIMATION-STATE |   | css | | |
 |  ANY |   | typescript, python | | |
 |  APPLET |   | html | | |
