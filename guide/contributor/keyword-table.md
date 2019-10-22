@@ -51,7 +51,7 @@
 |  AUTO |   | c++, c | | |
 |  AVAILABLE |   | | | |
 |  AWAIT | coroutine keywords that denote the beginning of a promise within an asynchronous function. | c#, javascript, python | User Defined Structures | There can be as many `await` keywords within a function as needed. |
-|  B |   | html | | |
+|  B | Text surrounded by <b> tags is displayed with a bold typeface.  | html | | |
 |  BACKFACE-VISIBILITY |   | css | | |
 |  BACKGROUND |   | css | | |
 |  BACKGROUND-ATTACHMENT |   | css | | |
